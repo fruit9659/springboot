@@ -1,0 +1,65 @@
+server:
+  port: 57010
+  max-http-header-size: 100KB
+
+#nacos服务
+nacos:
+  server:
+    addr: 127.0.0.1:8848
+
+spring:
+  application:
+    name: merchant-application
+  main:
+    allow-bean-definition-overriding: true #springboot2.1需要设定
+  cloud:
+    nacos:
+      discovery:
+        server-addr: ${nacos.server.addr}
+        namespace: 60558cd0-2f05-4fae-ace9-be2961cc61e1 #nacos中的命名空间
+        cluster-name: DEFAULT
+      config:
+        server-addr: ${nacos.server.addr}
+        file-extension: yaml
+        namespace: 60558cd0-2f05-4fae-ace9-be2961cc61e1 #nacos中的命名空间
+        group: QIFENGPAY_GROUP  #支付业务组
+        ext-config:
+          -
+            refresh: true
+            data-id: spring-boot-http.yaml  #nacos中http配置文件id
+            group: COMMON_GROUP  #通用配置组
+          #SpringMVC上传文件配置
+servlet:
+  multipart:
+      #默认支持文件上传.
+    enabled: true
+      #支持文件写入磁盘.
+    file-size-threshold: 0
+      #上传文件的临时目录
+  location:
+      #最大支持文件大小
+    max-file-size: 1MB
+      #最大支持请求大小
+    max-request-size: 30MB
+
+
+#dubbo服务
+dubbo:
+  scan:
+    base-packages: cn.qifeng  #dubbo 服务扫描基准包
+  protocol:
+    name: dubbo   #dubbo协议
+    port: 20891
+  registry:
+    address: nacos://127.0.0.1:8848
+  application:
+    qos:
+      port: 22310     #qos端口配置
+  consumer:
+    check: false
+    timeout: 3000
+    retries: -1
+
+#logfourj日志
+logging:
+  config: classpath:log4j2.xml
