@@ -1,0 +1,380 @@
+[${project.name}][${env:SERVER_PORT}] 2019-12-28 12:11:09,163 INFO [http-nio-56085-exec-10][QCloudSmsService.java:56] - 给手机号13344334433发送验证码：200627
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:04,474 INFO [main][StartupInfoLogger.java:50] - Starting SailingBootstrap on DESKTOP-3LITFFH with PID 57244 (D:\qifengPay\sailing\target\classes started by 水果 in D:\qifengPay\sailing)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:04,482 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,313 INFO [main][RepositoryConfigurationDelegate.java:244] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,316 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,342 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,801 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 56085 (http)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,811 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-56085"]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,818 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,818 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,868 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk\java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Windows\System32;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;E:\Sql Server\Client SDK\ODBC\110\Tools\Binn\;E:\Sql Server\sql\120\Tools\Binn\;E:\Sql Server\120\Tools\Binn\;E:\Sql Server\120\DTS\Binn\;E:\Sql Server\sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;E:\UE;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;E:\Sql Server\110\Tools\Binn\;E:\maven3.8\bin;E:\git\Git\cmd;E:\Rational-rose\common;E:\Androidsdk\tools;E:\Androidsdk\platform-tools;E:\graphviz\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;E:\Sql Server\Client SDK\ODBC\110\Tools\Binn\;E:\Sql Server\sql\120\Tools\Binn\;E:\Sql Server\120\Tools\Binn\;E:\Sql Server\120\DTS\Binn\;E:\Sql Server\sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;E:\UE;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\W;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Azure Data Studio\bin;E:\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E:\pycharm\PyCharm 2020.2.3\bin;;.]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,975 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:05,975 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 1461 ms
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:06,644 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:06,699 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:06,797 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,031 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,045 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,069 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,220 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-56085"]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,238 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 56085 (http) with context path '/sailing'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,240 INFO [main][StartupInfoLogger.java:59] - Started SailingBootstrap in 3.187 seconds (JVM running for 4.414)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,443 INFO [RMI TCP Connection(1)-192.168.81.1][EpollProvider.java:68] - Starting without optional epoll library
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,445 INFO [RMI TCP Connection(1)-192.168.81.1][KqueueProvider.java:70] - Starting without optional kqueue library
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,619 INFO [RMI TCP Connection(3)-192.168.81.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,620 INFO [RMI TCP Connection(3)-192.168.81.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:30:07,631 INFO [RMI TCP Connection(3)-192.168.81.1][FrameworkServlet.java:546] - Completed initialization in 11 ms
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:38:56,628 INFO [http-nio-56085-exec-5][QCloudSmsService.java:56] - 给手机号157575757发送验证码：634812
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:39:06,641 ERROR [http-nio-56085-exec-5][GlobalExceptionHandler.java:45] - 【系统异常】{}
+org.springframework.data.redis.connection.PoolException: Could not get a resource from the pool; nested exception is io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379
+	at org.springframework.data.redis.connection.lettuce.LettucePoolingConnectionProvider.getConnection(LettucePoolingConnectionProvider.java:86)
+	at org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory$SharedConnection.getNativeConnection(LettuceConnectionFactory.java:1085)
+	at org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory$SharedConnection.getConnection(LettuceConnectionFactory.java:1065)
+	at org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory.getSharedConnection(LettuceConnectionFactory.java:865)
+	at org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory.getConnection(LettuceConnectionFactory.java:340)
+	at org.springframework.data.redis.core.RedisConnectionUtils.doGetConnection(RedisConnectionUtils.java:132)
+	at org.springframework.data.redis.core.RedisConnectionUtils.getConnection(RedisConnectionUtils.java:95)
+	at org.springframework.data.redis.core.RedisConnectionUtils.getConnection(RedisConnectionUtils.java:82)
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:211)
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184)
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95)
+	at org.springframework.data.redis.core.DefaultValueOperations.set(DefaultValueOperations.java:256)
+	at cn.itcast.sailing.common.cache.RedisCache.set(RedisCache.java:44)
+	at cn.itcast.sailing.store.RedisVerificationStore.set(RedisVerificationStore.java:15)
+	at cn.itcast.sailing.handler.AbstractVerificationHandler.generateVerificationInfo(AbstractVerificationHandler.java:54)
+	at cn.itcast.sailing.service.VerificationService.generateVerificationInfo(VerificationService.java:28)
+	at cn.itcast.sailing.controller.VerificationController.generateVerificationInfo(VerificationController.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter.doFilterInternal(HttpTraceFilter.java:90)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:117)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379
+	at io.lettuce.core.RedisConnectionException.create(RedisConnectionException.java:78)
+	at io.lettuce.core.RedisConnectionException.create(RedisConnectionException.java:56)
+	at io.lettuce.core.AbstractRedisClient.getConnection(AbstractRedisClient.java:234)
+	at io.lettuce.core.RedisClient.connect(RedisClient.java:204)
+	at org.springframework.data.redis.connection.lettuce.StandaloneConnectionProvider.lambda$getConnection$1(StandaloneConnectionProvider.java:113)
+	at java.util.Optional.orElseGet(Optional.java:267)
+	at org.springframework.data.redis.connection.lettuce.StandaloneConnectionProvider.getConnection(StandaloneConnectionProvider.java:113)
+	at org.springframework.data.redis.connection.lettuce.LettucePoolingConnectionProvider.lambda$null$0(LettucePoolingConnectionProvider.java:74)
+	at io.lettuce.core.support.ConnectionPoolSupport$RedisPooledObjectFactory.create(ConnectionPoolSupport.java:209)
+	at io.lettuce.core.support.ConnectionPoolSupport$RedisPooledObjectFactory.create(ConnectionPoolSupport.java:199)
+	at org.apache.commons.pool2.BasePooledObjectFactory.makeObject(BasePooledObjectFactory.java:58)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:874)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:417)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:346)
+	at io.lettuce.core.support.ConnectionPoolSupport$1.borrowObject(ConnectionPoolSupport.java:122)
+	at io.lettuce.core.support.ConnectionPoolSupport$1.borrowObject(ConnectionPoolSupport.java:117)
+	at org.springframework.data.redis.connection.lettuce.LettucePoolingConnectionProvider.getConnection(LettucePoolingConnectionProvider.java:80)
+	... 79 more
+Caused by: io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)
+	at io.lettuce.core.ExceptionFactory.createTimeoutException(ExceptionFactory.java:51)
+	at io.lettuce.core.protocol.CommandExpiryWriter.lambda$potentiallyExpire$0(CommandExpiryWriter.java:167)
+	at io.netty.util.concurrent.PromiseTask$RunnableAdapter.call(PromiseTask.java:38)
+	at io.netty.util.concurrent.ScheduledFutureTask.run(ScheduledFutureTask.java:127)
+	at io.netty.util.concurrent.DefaultEventExecutor.run(DefaultEventExecutor.java:66)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:905)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	... 1 more
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:29,906 INFO [main][StartupInfoLogger.java:50] - Starting SailingBootstrap on DESKTOP-3LITFFH with PID 76864 (D:\qifengPay\sailing\target\classes started by 水果 in D:\qifengPay\sailing)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:29,912 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:30,656 INFO [main][RepositoryConfigurationDelegate.java:244] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:30,659 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:30,685 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,124 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 56085 (http)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,134 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-56085"]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,183 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,184 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,189 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk\java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Windows\System32;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;E:\Sql Server\Client SDK\ODBC\110\Tools\Binn\;E:\Sql Server\sql\120\Tools\Binn\;E:\Sql Server\120\Tools\Binn\;E:\Sql Server\120\DTS\Binn\;E:\Sql Server\sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;E:\UE;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;E:\Sql Server\110\Tools\Binn\;E:\maven3.8\bin;E:\git\Git\cmd;E:\Rational-rose\common;E:\Androidsdk\tools;E:\Androidsdk\platform-tools;E:\graphviz\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;E:\Sql Server\Client SDK\ODBC\110\Tools\Binn\;E:\Sql Server\sql\120\Tools\Binn\;E:\Sql Server\120\Tools\Binn\;E:\Sql Server\120\DTS\Binn\;E:\Sql Server\sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;E:\UE;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\W;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Azure Data Studio\bin;E:\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E:\pycharm\PyCharm 2020.2.3\bin;;.]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,283 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,283 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 1348 ms
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,868 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:31,920 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,015 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,238 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,251 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,273 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,377 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-56085"]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,394 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 56085 (http) with context path '/sailing'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,396 INFO [main][StartupInfoLogger.java:59] - Started SailingBootstrap in 2.814 seconds (JVM running for 3.898)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,992 INFO [RMI TCP Connection(2)-192.168.81.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,993 INFO [RMI TCP Connection(2)-192.168.81.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:32,998 INFO [RMI TCP Connection(2)-192.168.81.1][FrameworkServlet.java:546] - Completed initialization in 5 ms
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:33,069 INFO [RMI TCP Connection(1)-192.168.81.1][EpollProvider.java:68] - Starting without optional epoll library
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:33,071 INFO [RMI TCP Connection(1)-192.168.81.1][KqueueProvider.java:70] - Starting without optional kqueue library
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:39,903 INFO [http-nio-56085-exec-1][QCloudSmsService.java:56] - 给手机号157575757发送验证码：072172
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:40:49,927 ERROR [http-nio-56085-exec-1][GlobalExceptionHandler.java:45] - 【系统异常】{}
+org.springframework.dao.QueryTimeoutException: Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:70)
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41)
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44)
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42)
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:268)
+	at org.springframework.data.redis.connection.lettuce.LettuceStringCommands.convertLettuceAccessException(LettuceStringCommands.java:799)
+	at org.springframework.data.redis.connection.lettuce.LettuceStringCommands.setEx(LettuceStringCommands.java:232)
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.setEx(DefaultedRedisConnection.java:295)
+	at org.springframework.data.redis.connection.DefaultStringRedisConnection.setEx(DefaultStringRedisConnection.java:982)
+	at org.springframework.data.redis.core.DefaultValueOperations$4.potentiallyUsePsetEx(DefaultValueOperations.java:268)
+	at org.springframework.data.redis.core.DefaultValueOperations$4.doInRedis(DefaultValueOperations.java:261)
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224)
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184)
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95)
+	at org.springframework.data.redis.core.DefaultValueOperations.set(DefaultValueOperations.java:256)
+	at cn.itcast.sailing.common.cache.RedisCache.set(RedisCache.java:44)
+	at cn.itcast.sailing.store.RedisVerificationStore.set(RedisVerificationStore.java:15)
+	at cn.itcast.sailing.handler.AbstractVerificationHandler.generateVerificationInfo(AbstractVerificationHandler.java:54)
+	at cn.itcast.sailing.service.VerificationService.generateVerificationInfo(VerificationService.java:28)
+	at cn.itcast.sailing.controller.VerificationController.generateVerificationInfo(VerificationController.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter.doFilterInternal(HttpTraceFilter.java:90)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:117)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)
+	at io.lettuce.core.ExceptionFactory.createTimeoutException(ExceptionFactory.java:51)
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:114)
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:69)
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80)
+	at com.sun.proxy.$Proxy134.setex(Unknown Source)
+	at org.springframework.data.redis.connection.lettuce.LettuceStringCommands.setEx(LettuceStringCommands.java:230)
+	... 76 more
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:41:04,281 INFO [http-nio-56085-exec-7][QCloudSmsService.java:56] - 给手机号1575757发送验证码：403808
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:41:14,290 ERROR [http-nio-56085-exec-7][GlobalExceptionHandler.java:45] - 【系统异常】{}
+org.springframework.dao.QueryTimeoutException: Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:70)
+	at org.springframework.data.redis.connection.lettuce.LettuceExceptionConverter.convert(LettuceExceptionConverter.java:41)
+	at org.springframework.data.redis.PassThroughExceptionTranslationStrategy.translate(PassThroughExceptionTranslationStrategy.java:44)
+	at org.springframework.data.redis.FallbackExceptionTranslationStrategy.translate(FallbackExceptionTranslationStrategy.java:42)
+	at org.springframework.data.redis.connection.lettuce.LettuceConnection.convertLettuceAccessException(LettuceConnection.java:268)
+	at org.springframework.data.redis.connection.lettuce.LettuceStringCommands.convertLettuceAccessException(LettuceStringCommands.java:799)
+	at org.springframework.data.redis.connection.lettuce.LettuceStringCommands.setEx(LettuceStringCommands.java:232)
+	at org.springframework.data.redis.connection.DefaultedRedisConnection.setEx(DefaultedRedisConnection.java:295)
+	at org.springframework.data.redis.connection.DefaultStringRedisConnection.setEx(DefaultStringRedisConnection.java:982)
+	at org.springframework.data.redis.core.DefaultValueOperations$4.potentiallyUsePsetEx(DefaultValueOperations.java:268)
+	at org.springframework.data.redis.core.DefaultValueOperations$4.doInRedis(DefaultValueOperations.java:261)
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:224)
+	at org.springframework.data.redis.core.RedisTemplate.execute(RedisTemplate.java:184)
+	at org.springframework.data.redis.core.AbstractOperations.execute(AbstractOperations.java:95)
+	at org.springframework.data.redis.core.DefaultValueOperations.set(DefaultValueOperations.java:256)
+	at cn.itcast.sailing.common.cache.RedisCache.set(RedisCache.java:44)
+	at cn.itcast.sailing.store.RedisVerificationStore.set(RedisVerificationStore.java:15)
+	at cn.itcast.sailing.handler.AbstractVerificationHandler.generateVerificationInfo(AbstractVerificationHandler.java:54)
+	at cn.itcast.sailing.service.VerificationService.generateVerificationInfo(VerificationService.java:28)
+	at cn.itcast.sailing.controller.VerificationController.generateVerificationInfo(VerificationController.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter.doFilterInternal(HttpTraceFilter.java:90)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:117)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)
+	at io.lettuce.core.ExceptionFactory.createTimeoutException(ExceptionFactory.java:51)
+	at io.lettuce.core.LettuceFutures.awaitOrCancel(LettuceFutures.java:114)
+	at io.lettuce.core.FutureSyncInvocationHandler.handleInvocation(FutureSyncInvocationHandler.java:69)
+	at io.lettuce.core.internal.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:80)
+	at com.sun.proxy.$Proxy134.setex(Unknown Source)
+	at org.springframework.data.redis.connection.lettuce.LettuceStringCommands.setEx(LettuceStringCommands.java:230)
+	... 76 more
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:33,492 INFO [main][StartupInfoLogger.java:50] - Starting SailingBootstrap on DESKTOP-3LITFFH with PID 73068 (D:\qifengPay\sailing\target\classes started by 水果 in D:\qifengPay\sailing)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:33,497 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,276 INFO [main][RepositoryConfigurationDelegate.java:244] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,279 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,305 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,807 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 56085 (http)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,817 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-56085"]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,873 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,874 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,879 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk\java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\jdk\java\jdk1.8.0_181\bin;path=C:\Windows\System32;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;E:\Sql Server\Client SDK\ODBC\110\Tools\Binn\;E:\Sql Server\sql\120\Tools\Binn\;E:\Sql Server\120\Tools\Binn\;E:\Sql Server\120\DTS\Binn\;E:\Sql Server\sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;E:\UE;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;E:\Sql Server\110\Tools\Binn\;E:\maven3.8\bin;E:\git\Git\cmd;E:\Rational-rose\common;E:\Androidsdk\tools;E:\Androidsdk\platform-tools;E:\graphviz\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;E;\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E;\pycharm\PyCharm 2020.2.3\bin;E:\pycharm\PyCharm 2020.2.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;F:\MySQL\MySQL Server 5.7\bin;E:\Sql Server\Client SDK\ODBC\110\Tools\Binn\;E:\Sql Server\sql\120\Tools\Binn\;E:\Sql Server\120\Tools\Binn\;E:\Sql Server\120\DTS\Binn\;E:\Sql Server\sql\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;E:\maven3.8\apache-maven-3.8.2\bin;E:\UE;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\W;C:\Users\水果\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Azure Data Studio\bin;E:\VsCode\Microsoft VS Code\bin;C:\Users\水果\AppData\Roaming\npm;E:\pycharm\PyCharm 2020.2.3\bin;;.]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,972 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:34,972 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 1448 ms
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:35,630 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:35,686 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:35,780 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,097 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,114 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,138 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,248 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-56085"]
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,264 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 56085 (http) with context path '/sailing'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,266 INFO [main][StartupInfoLogger.java:59] - Started SailingBootstrap in 3.137 seconds (JVM running for 4.247)
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,505 INFO [RMI TCP Connection(2)-192.168.81.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,505 INFO [RMI TCP Connection(2)-192.168.81.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,510 INFO [RMI TCP Connection(2)-192.168.81.1][FrameworkServlet.java:546] - Completed initialization in 5 ms
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,581 INFO [RMI TCP Connection(1)-192.168.81.1][EpollProvider.java:68] - Starting without optional epoll library
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:43:36,583 INFO [RMI TCP Connection(1)-192.168.81.1][KqueueProvider.java:70] - Starting without optional kqueue library
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:44:23,583 INFO [http-nio-56085-exec-1][QCloudSmsService.java:56] - 给手机号1575757发送验证码：843040
+[${project.name}][${env:SERVER_PORT}] 2022-07-18 09:48:13,558 INFO [http-nio-56085-exec-2][QCloudSmsService.java:56] - 给手机号12347584发送验证码：761250
